@@ -73,7 +73,7 @@
 		          <div>City<br><input type="text" value="<%out.println(f);%>" name="ucity"></div>
 		             <div class="comments-area">
 		             <div>Date Of Birth<input type="text" value="<%out.println(g);%>" name="udate" ></div>
-		             Phone Number &nbsp;<input type="int" value="<%out.println(i);%>" name="unumber">
+		             Phone Number &nbsp;<input type="text" value="<%out.println(i);%>" name="unumber">
 		             </div>
 		          </div>
 		         &nbsp;&nbsp;<button class="grey">UPDATE</button>
